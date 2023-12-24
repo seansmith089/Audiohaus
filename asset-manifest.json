@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Audiohaus/static/css/main.c12f6a1f.css",
+    "main.js": "/Audiohaus/static/js/main.90e0dc5e.js",
+    "static/media/image-speaker-zx9.png": "/Audiohaus/static/media/image-speaker-zx9.153cd899b91a08b22b1a.png",
+    "static/media/image-best-gear.jpg": "/Audiohaus/static/media/image-best-gear.4d4a28e9e7c9ab158dd8.jpg",
+    "static/media/image-hero.jpg": "/Audiohaus/static/media/image-hero.fb7f46173fa4c819c755.jpg",
+    "static/media/image-header.jpg": "/Audiohaus/static/media/image-header.d200a3583e72c7981f46.jpg",
+    "static/media/image-category-thumbnail-headphones.png": "/Audiohaus/static/media/image-category-thumbnail-headphones.fbd401d9c735a217286f.png",
+    "static/media/image-category-thumbnail-speakers.png": "/Audiohaus/static/media/image-category-thumbnail-speakers.bbb1a70b6ebc42d18df7.png",
+    "static/media/image-category-thumbnail-earphones.png": "/Audiohaus/static/media/image-category-thumbnail-earphones.6e8830d475e04b7b9627.png",
+    "static/media/image-speaker-zx7.jpg": "/Audiohaus/static/media/image-speaker-zx7.173a4cb5c7acfc7f300c.jpg",
+    "static/media/image-earphones-yx1.jpg": "/Audiohaus/static/media/image-earphones-yx1.48e16a44bd58ed3be41e.jpg",
+    "static/media/icon-instagram.svg": "/Audiohaus/static/media/icon-instagram.8d0df55595e16bac2d486efccdc6b4b3.svg",
+    "index.html": "/Audiohaus/index.html",
+    "static/media/icon-twitter.svg": "/Audiohaus/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
+    "static/media/icon-facebook.svg": "/Audiohaus/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
+    "static/media/pattern-circles.svg": "/Audiohaus/static/media/pattern-circles.f4df3610b83b818abbbecd009a5b11d3.svg",
+    "static/media/icon-order-confirmation.svg": "/Audiohaus/static/media/icon-order-confirmation.6970134820e756e31360b1293c6f3e62.svg",
+    "static/media/icon-arrow-right.svg": "/Audiohaus/static/media/icon-arrow-right.357b9db81a798d76397efa2f4ad3409f.svg",
+    "main.c12f6a1f.css.map": "/Audiohaus/static/css/main.c12f6a1f.css.map",
+    "main.90e0dc5e.js.map": "/Audiohaus/static/js/main.90e0dc5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12f6a1f.css",
+    "static/js/main.90e0dc5e.js"
+  ]
+}
